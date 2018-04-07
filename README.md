@@ -1,2 +1,6 @@
-# AppStudio
-Native App Studio Projects
+# App Studio
+
+## Nordin Bouchrit
+## 11050608
+
+Native App Studio Projects a
